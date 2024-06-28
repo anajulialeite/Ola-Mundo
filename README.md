@@ -1,4 +1,7 @@
 # Olá, Mundo!
+
+<img src="Imagem/HTML.webp" alt="Logo" align="left" width="150">
+
  Primeiro repositorio do curso Git e Github
 
  Repositório criado durante uma aula ao vivo!
