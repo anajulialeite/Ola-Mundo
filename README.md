@@ -2,7 +2,7 @@
 
 <img src="Imagem/HTML.webp" alt="Logo" align="left" width="150">
 
- Primeiro repositorio do curso Git e Github
+ Primeiro repositorio do curso Git e GitHub
 
  Repositório criado durante uma aula ao vivo!
 
