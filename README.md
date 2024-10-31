@@ -9,3 +9,7 @@
  Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
 
  Baixei o Git e o GitHub seguindo as instruções do Gustavo Guanabara no CursoemVideo.
+
+ # License
+
+ [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
