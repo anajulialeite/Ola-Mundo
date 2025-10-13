@@ -12,8 +12,6 @@ Baixei o Git e o GitHub seguindo as instruções do Gustavo Guanabara no Cursoem
 
 ## Link útil
 
-https://www.cursoemvideo.com/curso/curso-de-git-e-github/
-
 Link do curso <a href= "https://www.cursoemvideo.com/curso/curso-de-git-e-github/">Git e GitHub</a>
 
 # License
