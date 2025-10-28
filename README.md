@@ -14,6 +14,6 @@ Baixei o Git e o GitHub seguindo as instruções do Gustavo Guanabara no Cursoem
 
 Link do curso <a href= "https://www.cursoemvideo.com/curso/curso-de-git-e-github/">Git e GitHub</a>
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
